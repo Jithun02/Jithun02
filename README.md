@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jithun</h1>
-<h3 align="center">cybersecurity student interested in ethical hacking, network security, and digital forensics. Constantly learning and exploring new ways to protect systems from cyber threats. Open to collaborations, CTF challenges, and security research! 🔐🚀</h3>
+<h3 align="center">Cybersecurity student interested in Ethical Hacking, network security, and digital forensics. Constantly learning and exploring new ways to protect systems from cyber threats. Open to collaborations, CTF challenges, and security research! 🔐🚀</h3>
 
 - 🔭 I’m currently working on **FOOD DELIVERY SYSTEM**
 
