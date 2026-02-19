@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jithun</h1>
 <h3 align="center">Cybersecurity student interested in Ethical Hacking, network security, and digital forensics. Constantly learning and exploring new ways to protect systems from cyber threats. Open to collaborations, CTF challenges, and security research! 🔐🚀</h3>
 
-- 🔭 I’m currently working on **FOOD DELIVERY SYSTEM**
-
-- 🌱 I’m currently learning **full stack development**
-
-- 👨‍💻 All of my projects are available at [https://jithun02.github.io/Portfolio/](https://jithun02.github.io/Portfolio/)
-
-- 💬 Ask me about **python,linux,c**
-
-- 📫 How to reach me **jg4474@srmist.edu.in**
-
-- 📄 Know about my experiences [https://jithun02.github.io/Portfolio/](https://jithun02.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
