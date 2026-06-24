@@ -27,7 +27,7 @@ class Jithun:
 
 ---
 
-## 🔐 Core Expertise
+##  Core Expertise
 
 <table>
 <tr>
@@ -97,7 +97,7 @@ class Jithun:
 ## 🛠️ Full Tech Stack
 
 <details>
-<summary><b>💻 Languages</b></summary>
+<summary><b> Languages</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -112,7 +112,7 @@ class Jithun:
 </details>
 
 <details>
-<summary><b>☁️ Cloud & DevSecOps</b></summary>
+<summary><b> Cloud & DevSecOps</b></summary>
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
@@ -129,7 +129,7 @@ class Jithun:
 </details>
 
 <details>
-<summary><b>🔐 Security Tools</b></summary>
+<summary><b> Security Tools</b></summary>
 <br/>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -142,7 +142,7 @@ class Jithun:
 </details>
 
 <details>
-<summary><b>📈 Quant & Finance Stack</b></summary>
+<summary><b> Quant & Finance Stack</b></summary>
 <br/>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -157,7 +157,7 @@ class Jithun:
 </details>
 
 <details>
-<summary><b>🤖 AI / ML Stack</b></summary>
+<summary><b> AI / ML Stack</b></summary>
 <br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
