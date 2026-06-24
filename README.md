@@ -170,7 +170,7 @@ class Jithun:
 </details>
 
 ---
-
+<!--
 ## 🔥 Featured Projects
 
 <div align="center">
@@ -222,7 +222,7 @@ class Jithun:
 </table>
 </div>
 
----
+-->
 
 
 
@@ -241,7 +241,7 @@ class Jithun:
 
 <div align="center">
 
-> *"Low-Latency Engineering • Quant Infrastructure • AI Security • Cloud Systems"*
+> *Low-Latency Engineering • Quant Infrastructure • AI Security • Cloud Systems*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" />
 
