@@ -224,45 +224,15 @@ class Jithun:
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=cbd5e1"/>
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f172a&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-</div>
-
----
-
-## 📜 Certifications & Learning
-
-| Certification | Provider | Status |
-|---|---|---|
-| AWS Certified Security – Specialty | Amazon Web Services | 🎯 In Progress |
-| Certified Ethical Hacker (CEH) | EC-Council | 🎯 In Progress |
-| Google Professional Cloud Security Engineer | Google Cloud | 🎯 Planned |
-| CFA Level 1 | CFA Institute | 📚 Studying |
-
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mrjithun)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)]([https://YOUR_PORTFOLIO.dev](https://jithun.vercel.app/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jithun238@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 
 </div>
@@ -271,7 +241,7 @@ class Jithun:
 
 <div align="center">
 
-> *"Security is not a product, but a process — and I build both."*
+> *"Low-Latency Engineering • Quant Infrastructure • AI Security • Cloud Systems"*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" />
 
