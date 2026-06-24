@@ -13,14 +13,13 @@
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 ```python
 class Jithun:
     role       = ["Cloud Security Engineer", "Cybersecurity Researcher", "Quant Developer"]
     location   = "Tamil Nadu, India 🇮🇳"
     languages  = ["Python", "Rust", "Go", "SQL", "Bash"]
-    currently  = "Building Jarvis OS + HFT Research Platform"
     learning   = ["Advanced Cryptography", "Zero Trust Architecture", "HFT Systems"]
     interests  = ["Threat Intelligence", "Quantitative Finance", "AI/ML Security"]
     ask_me_about = "Cloud Security, Pentest, Algo Trading, AI Agents"
